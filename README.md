@@ -1,5 +1,5 @@
 **Hey there, I'm coolmandude545!** 👋
-- frontend dev, learning (slowly) backend since frontend is pain
+- front-end dev, learning (slowly) backend since front-end is pain
 - average svelte enjoyer
 
 ![coolmandude545's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolmandude545&show_icons=true&theme=light)
