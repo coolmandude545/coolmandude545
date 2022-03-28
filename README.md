@@ -13,7 +13,10 @@
 
 **Languages/frameworks/other programming stuff I'm working on:**
 - React
-- Redux
 - Node.js
+
+**Languages/frameworks/other programming stuff I want to learn:**
+- Redux
 - Next.js
+- TypeScript
 - etc...
